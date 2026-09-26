@@ -1,0 +1,9 @@
+try {  
+    // Code that may throw an exception  
+} catch (IOException e) {  
+    // Handle IOException  
+} catch (NumberFormatException e) {  
+    // Handle NumberFormatException  
+} catch (Exception e) {  
+    // Handle any other exceptions  
+}  
